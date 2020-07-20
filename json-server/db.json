@@ -209,6 +209,14 @@
       "comment": "good!",
       "date": "2020-07-20T06:48:01.991Z",
       "id": 20
+    },
+    {
+      "dishId": 3,
+      "rating": "4",
+      "author": "Hansa Pradhan",
+      "comment": "great",
+      "date": "2020-07-20T10:58:06.677Z",
+      "id": 21
     }
   ],
   "promotions": [
